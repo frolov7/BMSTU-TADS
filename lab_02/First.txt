@@ -1,0 +1,101 @@
+1 Winter Sadko Vasilev 700 1100 3 Beethoven Russia 14 120
+2 Bolshoi Hamlet Nikolaev 500 1200 3 Glinka Ukrain 5 120
+3 Winter Clowns Volchek 700 900 3 Beethoven Japon 9 150
+4 Mariana Sadko Garin 400 900 2 Comedy
+5 Sovremenik Midsummer Garin 700 1000 1 8 Fairytale
+6 Alexandrinsky Midsummer Nikolaev 700 800 3 Glinka Franc 18 120
+7 Alexandrinsky Hamlet Vasilev 500 1100 1 9 Musical
+8 Alexandrinsky Clowns Stepanov 400 1200 3 Verstovsky Ukrain 5 90
+9 Alexandrinsky Sadko Volchek 300 900 2 Comedy
+10 Mariana Sadko Volchek 300 1000 1 9 Fairytale
+11 Mariana Midsummer Volchek 500 1000 3 Goethe Ukrain 14 150
+12 Bolshoi Midsummer Garin 500 1100 1 7 Musical
+13 Alexandrinsky Hamlet Vasilev 700 1100 1 7 Play
+14 Alexandrinsky Viy Vasilev 300 1100 1 8 Play
+15 Winter Hamlet Garin 400 1200 1 7 Fairytale
+16 Winter Viy Vasilev 500 1200 1 9 Fairytale
+17 Bolshoi Hamlet Nikolaev 400 1100 3 Shostakovich Kazakhstan 18 150
+18 Alexandrinsky Viy Garin 700 900 1 7 Fairytale
+19 Winter Sadko Stepanov 400 1200 1 8 Fairytale
+20 Mariana Midsummer Nikolaev 600 1000 2 Drama
+21 Mariana Sadko Stepanov 700 1000 2 Comedy
+22 Sovremenik Hamlet Vasilev 600 800 1 7 Musical
+23 Bolshoi Midsummer Garin 300 800 1 7 Fairytale
+24 Bolshoi Hamlet Garin 600 800 2 Play
+25 Winter Clowns Volchek 400 1200 1 8 Play
+26 Bolshoi Sadko Vasilev 600 800 1 7 Musical
+27 Mariana Clowns Stepanov 600 1000 1 8 Musical
+28 Alexandrinsky Clowns Garin 400 1100 1 8 Musical
+29 Mariana Sadko Garin 700 1000 2 Drama
+30 Sovremenik Hamlet Vasilev 400 1200 2 Comedy
+31 Mariana Sadko Stepanov 700 1200 3 Goethe Russia 5 200
+32 Alexandrinsky Sadko Volchek 700 1000 3 Shostakovich Franc 5 200
+33 Winter Midsummer Vasilev 400 1200 1 7 Fairytale
+34 Sovremenik Sadko Stepanov 400 1200 2 Comedy
+35 Winter Hamlet Stepanov 700 1200 2 Drama
+36 Sovremenik Viy Stepanov 400 1100 1 8 Fairytale
+37 Sovremenik Sadko Volchek 600 900 1 9 Play
+38 Mariana Hamlet Vasilev 600 1000 3 Khachaturian Japon 9 60
+39 Mariana Hamlet Volchek 700 1200 3 Khachaturian Ukrain 14 90
+40 Alexandrinsky Viy Vasilev 500 1200 3 Beethoven Ukrain 9 200
+41 Sovremenik Sadko Volchek 600 1200 3 Glinka Ukrain 14 200
+42 Sovremenik Sadko Volchek 500 1200 3 Shostakovich Franc 14 200
+43 Winter Clowns Volchek 600 800 1 7 Fairytale
+44 Sovremenik Midsummer Garin 500 1100 3 Beethoven Kazakhstan 14 90
+45 Bolshoi Hamlet Stepanov 700 800 2 Drama
+46 Bolshoi Midsummer Vasilev 400 1000 3 Goethe Ukrain 18 120
+47 Sovremenik Midsummer Garin 300 1000 1 9 Play
+48 Winter Hamlet Nikolaev 600 800 2 Play
+49 Bolshoi Midsummer Stepanov 700 1200 3 Beethoven Germany 9 60
+50 Alexandrinsky Midsummer Nikolaev 500 1100 3 Verstovsky Japon 18 200
+51 Alexandrinsky Clowns Vasilev 300 1000 2 Drama
+52 Sovremenik Hamlet Vasilev 300 1200 2 Play
+53 Sovremenik Viy Volchek 300 1200 2 Comedy
+54 Mariana Clowns Vasilev 400 900 3 Shostakovich Franc 14 200
+55 Sovremenik Viy Vasilev 500 1100 2 Play
+56 Sovremenik Viy Volchek 500 1200 2 Comedy
+57 Alexandrinsky Midsummer Garin 300 1100 1 7 Fairytale
+58 Mariana Hamlet Nikolaev 400 800 1 8 Fairytale
+59 Bolshoi Viy Vasilev 700 800 1 9 Play
+60 Alexandrinsky Midsummer Nikolaev 400 900 3 Goethe Russia 5 60
+61 Winter Hamlet Stepanov 700 800 2 Drama
+62 Winter Midsummer Nikolaev 500 1000 2 Play
+63 Winter Viy Stepanov 600 1100 1 7 Fairytale
+64 Bolshoi Viy Volchek 500 800 2 Play
+65 Winter Midsummer Stepanov 300 1100 2 Comedy
+66 Mariana Viy Vasilev 700 800 3 Goethe Russia 9 90
+67 Mariana Sadko Garin 600 800 3 Verstovsky Franc 18 90
+68 Bolshoi Clowns Nikolaev 300 1200 3 Shostakovich Russia 5 60
+69 Mariana Clowns Garin 500 1000 1 9 Fairytale
+70 Winter Sadko Volchek 500 1200 3 Beethoven Kazakhstan 9 200
+71 Sovremenik Midsummer Garin 400 1100 1 9 Fairytale
+72 Alexandrinsky Hamlet Garin 300 800 3 Shostakovich Franc 9 120
+73 Alexandrinsky Hamlet Vasilev 500 1000 1 9 Musical
+74 Alexandrinsky Clowns Stepanov 700 1000 2 Comedy
+75 Alexandrinsky Hamlet Stepanov 400 800 1 7 Play
+76 Mariana Sadko Garin 400 1100 1 9 Fairytale
+77 Alexandrinsky Viy Nikolaev 600 900 1 9 Fairytale
+78 Bolshoi Midsummer Volchek 300 1200 2 Drama
+79 Sovremenik Clowns Volchek 600 800 1 7 Play
+80 Bolshoi Clowns Volchek 300 800 3 Glinka Japon 9 60
+81 Bolshoi Clowns Nikolaev 700 1200 3 Verstovsky Ukrain 9 200
+82 Winter Sadko Garin 700 1000 3 Beethoven Germany 5 200
+83 Alexandrinsky Hamlet Volchek 700 1000 1 8 Fairytale
+84 Mariana Midsummer Stepanov 500 1200 3 Khachaturian Kazakhstan 9 90
+85 Mariana Viy Garin 500 1100 1 7 Play
+86 Winter Midsummer Garin 300 800 3 Beethoven Russia 18 200
+87 Winter Sadko Nikolaev 400 1100 3 Shostakovich Kazakhstan 14 90
+88 Alexandrinsky Midsummer Volchek 500 1000 2 Play
+89 Sovremenik Hamlet Garin 600 900 2 Drama
+90 Mariana Midsummer Garin 400 1200 1 9 Musical
+91 Mariana Sadko Stepanov 700 1200 3 Glinka Franc 5 60
+92 Winter Clowns Nikolaev 700 1100 3 Glinka Kazakhstan 18 200
+93 Mariana Clowns Stepanov 700 1100 1 7 Fairytale
+94 Sovremenik Viy Garin 300 1000 3 Shostakovich Russia 5 90
+95 Mariana Viy Stepanov 400 1000 1 9 Fairytale
+96 Alexandrinsky Clowns Garin 400 1100 3 Goethe Franc 18 200
+97 Bolshoi Clowns Stepanov 300 1000 1 7 Play
+98 Bolshoi Midsummer Garin 500 1100 2 Play
+99 Sovremenik Midsummer Vasilev 300 1000 2 Play
+100 Alexandrinsky Viy Nikolaev 600 800 3 Beethoven Germany 9 60
+101 Mariana Hamlet Vasilev 400 800 3 Beethoven Ukrain 18 200
